@@ -1,0 +1,1 @@
+<view class="container"><view><text data-event-opts="{{[['tap',[['say',['$event']]]]]}}" bindtap="__e">tewte</text><view>{{msg}}</view></view></view>
